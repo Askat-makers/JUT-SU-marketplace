@@ -1,0 +1,13 @@
+{
+  "watches": [
+    {
+      "name": "Rolex 111",
+      "brand": "Rolex",
+      "price": 1000,
+      "year": "2022-07-02",
+      "photo": "sdfsdf",
+      "country": "switzerland",
+      "id": 1
+    }
+  ]
+}

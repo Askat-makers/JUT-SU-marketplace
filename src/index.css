@@ -1,13 +1,17 @@
-body {
+* {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  padding: 0;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.admin-add-page {
+  padding-top: 30px;
+}
+
+.admin-add-page form {
+  display: flex;
+  flex-direction: column;
+}
+
+.admin-add-page button {
+  margin-top: 20px;
 }
