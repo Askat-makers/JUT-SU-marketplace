@@ -15,3 +15,12 @@
 .admin-add-page button {
   margin-top: 20px;
 }
+
+.navbar-link {
+  margin: 0 10px;
+}
+
+a {
+  color: unset;
+  text-decoration: none;
+}
