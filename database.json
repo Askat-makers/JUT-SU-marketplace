@@ -1,12 +1,12 @@
 {
   "watches": [
     {
-      "name": "Rolex 111",
-      "brand": "Rolex",
-      "price": 1000,
-      "year": "2022-07-02",
+      "name": "Garmin 2",
+      "brand": "Garmin",
+      "price": 1200,
+      "year": "2022-07-15",
       "photo": "sdfsdf",
-      "country": "switzerland",
+      "country": "china",
       "id": 1
     }
   ]

@@ -3,16 +3,19 @@
   padding: 0;
 }
 
-.admin-add-page {
+.admin-add-page,
+.admin-edit-page {
   padding-top: 30px;
 }
 
-.admin-add-page form {
+.admin-add-page form,
+.admin-edit-page form {
   display: flex;
   flex-direction: column;
 }
 
-.admin-add-page button {
+.admin-add-page button,
+.admin-edit-page button {
   margin-top: 20px;
 }
 
