@@ -5,9 +5,36 @@
       "brand": "Garmin",
       "price": 1200,
       "year": "2022-07-15",
-      "photo": "sdfsdf",
+      "photo": "https://content.rolex.com/dam/new-watches-2022/homepage/roller-family/homepage-new-watches-2022-roller-watches-datejust-family-m126233-0039_portrait.jpg?imwidth=420",
       "country": "china",
       "id": 1
+    },
+    {
+      "name": "John",
+      "brand": "ok",
+      "price": 111,
+      "year": "2022-07-15",
+      "photo": "12",
+      "country": "japan",
+      "id": 2
+    },
+    {
+      "name": "qwer",
+      "brand": "ok",
+      "price": 2131231,
+      "year": "2022-07-06",
+      "photo": "Аскат",
+      "country": "italy",
+      "id": 3
+    },
+    {
+      "name": "Адам",
+      "brand": "1231312",
+      "price": 213131,
+      "year": "2022-07-15",
+      "photo": "12312",
+      "country": "czech",
+      "id": 4
     }
   ]
 }
