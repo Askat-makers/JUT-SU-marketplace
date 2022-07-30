@@ -7,6 +7,7 @@ import Navbar from "./components/Navbar";
 import AdminProvider from "./contexts/AdminProvider";
 import AdminEditPage from "./pages/AdminEditPage";
 import ClientProvider from "./contexts/ClientProvider";
+import BasketPage from "./pages/BasketPage";
 
 function Navigation() {
   return (
@@ -19,6 +20,7 @@ function Navigation() {
             <Route path="/admin" element={<AdminPage />} />
             <Route path="/admin/add" element={<AdminAddPage />} />
             <Route path="/admin/edit/:id" element={<AdminEditPage />} />
+            <Route path="/basket" element={<BasketPage />} />
           </Routes>
         </BrowserRouter>
       </AdminProvider>
